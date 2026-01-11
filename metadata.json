@@ -1,0 +1,5 @@
+{
+  "name": "MangaForge Studio",
+  "description": "A comprehensive AI-powered comic creation studio. Features a Screenwriter mode for script generation and an Artist mode for character design and panel generation using Gemini Pro and Imagen.",
+  "requestFramePermissions": []
+}
